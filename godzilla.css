@@ -1,0 +1,56 @@
+
+    html {
+
+      height: 100%;
+    }
+    title{
+        color:red;
+    }
+    body {
+        background-color:rgb(30, 255, 0)
+       height: 100%;
+    }
+
+    header {
+        background-color:blue;
+        padding:5px;
+        font-size: ;
+        display:block;
+        width: 790px;
+        font-family: fantasy
+        
+    }
+    nav {
+        line-height:;
+        background-color:;
+        width:125px;
+        display: inline-block;
+        vertical-align: top;
+    }
+    nav ul {
+        list-style-type: none;
+    }
+    a {
+        color: ;
+    }
+    section {
+        width: 516px;
+        display: inline-block;
+    }
+    aside {
+      width: 125px;
+      display: inline-block;
+      vertical-align: top;
+      background-color:;
+      font-size: ;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        text-align:;
+        padding:5px;
+        display: block;
+    }
